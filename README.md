@@ -1,7 +1,7 @@
 # Slider v1.0
 
 Плагин позволяет создавать слайдер
-Для начала ознакомьтесь с  https://shelkov90.github.io/modul_slider/.**
+Для начала ознакомьтесь с  https://shelkov90.github.io/modul_slider/docs/started-welcome.html.**
 
 ## Быстрый старт
 
