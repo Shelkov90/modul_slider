@@ -1,7 +1,7 @@
 # Slider v1.0
 
 Плагин позволяет создавать слайдер
-Для начала ознакомьтесь с  https://multiply.github.io/Multiply/.**
+Для начала ознакомьтесь с  https://shelkov90.github.io/modul_slider/.**
 
 ## Быстрый старт
 
